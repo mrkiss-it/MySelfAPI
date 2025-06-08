@@ -1,4 +1,4 @@
-package com.example.myselfapi;
+package com.kiss.myselfapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
